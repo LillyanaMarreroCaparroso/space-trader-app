@@ -1,1 +1,1 @@
-# space-trader-app
+# Space Trader App
